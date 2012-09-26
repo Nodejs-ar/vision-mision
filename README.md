@@ -1,10 +1,11 @@
-[boilerplate for tquery](https://github.com/jeromeetienne/tqueryboilerplate)
-is a template to get you started. You download it and modify it until it fits your needs.
-It is a fast way to start a clean project with [tquery](https://github.com/jeromeetienne/tquery).
+Los objetivos son:
 
-## Get Started
-```
-git clone https://github.com/jeromeetienne/tqueryboilerplate.git
-```
+Servir de guía a nuevos usuarios para que puedan desarrollarse
 
-And start updating ```index.html``` until it fits yours need.
+Aportar buenas practicas y metodologías
+
+Servir de laboratorio de testeo de nuevas funcionalidades y/o módulos
+
+Difundir el conocimiento sobre Node.JS
+
+Difundir Node.JS dentro de la comunidad informática de Argentina
