@@ -14,4 +14,6 @@ Aprender mucho!
 
 Compartir experiencias vividas con esta tecnología.
 
+Identificar las areas de negocio que se beneficiarían con la implementación de una solución en nodejs.
+
 Enjoy the ride ;)
