@@ -10,6 +10,8 @@ Difundir el conocimiento sobre Node.JS
 
 Difundir Node.JS dentro de la comunidad informática de Argentina
 
+Aprender mucho!
+
 Compartir experiencias vividas con esta tecnología.
 
 Enjoy the ride ;)
